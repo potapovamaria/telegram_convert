@@ -24,3 +24,6 @@
 # Сборка проекта
 <br />1)	Запуск тестов: python -m unittest discover
 <br />2)	Сборка и запуск приложения: python telegrambot.py
+
+# Пример работы
+<br /> ![Image alt](https://github.com/potapovamaria/telegram_convert/blob/master/convert/img/img4.png)
